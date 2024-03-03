@@ -1,4 +1,4 @@
-# pocket-lynx-library-images-
+# pocket-lynx-library-images
 Atari Lynx library images for the Analogue Pocket
 
 Check the [releases link](https://github.com/g026r/pocket-lynx-library-images/releases) for the latest zips.
