@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<game name="A.P.B.">
+		<rom crc="68a0acab"/>
+	</game>
+	<game name="Awesome Golf">
+		<rom crc="2b90e818"/>
+	</game>
+	<game name="Baseball Heroes">
+		<rom crc="bb5de237" />
+	</game>
+	<game name="Basketbrawl">
+		<rom crc="cf67513a"/>
+	</game>
+	<game name="Batman Returns">
+		<rom crc="68cd6dcb" />
+	</game>
+	<game name="Battle Wheels">
+		<rom crc="57efff37"/>
+	</game>
+	<game name="Battlezone 2000">
+		<rom crc="e3af09ce"/>
+	</game>
+	<game name="Bill &amp; Ted's Excellent Adventure">
+		<rom crc="c91aff8a" />
+	</game>
+	<!-- Missing crc -->
+<!-- 	<game name="Biniax2">
+		<rom crc="" />
+	</game> -->
+	<game name="Block Out">
+		<rom crc="c96e5bc6" />
+	</game>
+<!-- 	<game name="Blue Lightning">
+		<rom crc="0bd1b69c"/>
+	</game> -->
+	<game name="Blue Lightning">
+		<rom crc="35af173c"/>
+	</game>
+	<game name="Bubble Trouble">
+		<rom crc="f85d0806"/>
+	</game>
+	<game name="California Games">
+		<rom crc="da7d96fd" />
+	</game>
+	<!-- ?????? -->
+	<game name="Centipede"> 
+		<rom crc="70cc4ae8"/>
+	</game>
+	<game name="Checkered Flag">
+		<rom crc="6687f846"/>
+	</game>
+	<game name="Chip's Challenge">
+		<rom crc="f45f784a" />
+	</game>
+	<game name="Crystal Mines II">
+		<rom crc="0535e6c9"/>
+	</game>
+	<game name="Crystal Mines II - Buried Treasure">
+		<rom crc="ffaa842d"/>
+	</game>
+	<!-- Missing crc -->
+<!-- 	<game name="Cybervirus Lost Missions">
+		<rom crc="" />
+	</game> -->
+	<game name="Desert Strike - Return to the Gulf">
+		<rom crc="2eaae973"/>
+	</game>
+	<game name="Dinolympics">
+		<rom crc="0ed9eb06"/>
+	</game>
+	<game name="Dirty Larry - Renegade Cop">
+		<rom crc="c6017733" />
+	</game>
+	<game name="Double Dragon">
+		<rom crc="bcb2e75a"/>
+	</game>
+	<game name="Dracula the Undead">
+		<rom crc="0f4b4071"/>
+	</game>
+	<game name="Electrocop">
+		<rom crc="765d742d"/>
+	</game>
+	<game name="European Soccer Challenge">
+		<rom crc="8ec43452"/>
+	</game>
+<!-- 	<game name="Eye of the Beholder">
+		<rom crc="a0010717"/>
+	</game> -->
+	<game name="Eye of the Beholder">
+		<rom crc="cadd8483"/>
+	</game>
+	<game name="Fat Bobby">
+		<rom crc="03f4e2a7"/>
+	</game>
+	<game name="Fidelity Ultimate Chess Challenge, The">
+		<rom crc="bd77d5f2"/>
+	</game>
+	<game name="Gates of Zendocon">
+		<rom crc="d852dba7"/>
+	</game>
+	<game name="Gauntlet - The Third Encounter">
+		<rom crc="8e0908e5"/>
+	</game>
+<!-- 	<game name="Gauntlet - The Third Encounter (1990-06-04)">
+		<category>Preproduction</category>
+		<rom crc="2dd0ecab"/>
+	</game> -->
+	<game name="Gordo 106">
+		<rom crc="0671acea"/>
+	</game>
+	<game name="Hard Drivin'">
+		<rom crc="9add0861" />
+	</game>
+	<game name="Hockey">
+		<rom crc="0904a4d9"/>
+	</game>
+	<game name="Hydra">
+		<rom crc="8980a322" />
+	</game>
+	<game name="Ishido - The Way of Stones">
+		<rom crc="4aa0e0b9" />
+	</game>
+	<game name="Jimmy Connors' Tennis">
+		<rom crc="fdd6536d" />
+	</game>
+	<game name="Joust">
+		<rom crc="85a2a177"/>
+	</game>
+	<game name="Klax">
+		<rom crc="ec53a878" />
+	</game>
+<!-- 	<game name="Klax">
+		<category>Preproduction</category>
+		<rom crc="e49eaff4"/>
+	</game> -->
+	<game name="Krazy Ace - Miniature Golf">
+		<rom crc="96c5d9b9"/>
+	</game>
+	<game name="Kung Food">
+		<rom crc="3529d2d7" />
+	</game>
+	<game name="Lemmings">
+		<rom crc="a77b6b64"/>
+	</game>
+	<game name="Lexis">
+		<rom crc="e89999bc"/>
+	</game>
+<!-- 	<game name="Lode Runner">
+		<rom crc="57de7067"/>
+	</game> -->
+	<game name="Loopz">
+		<rom crc="93281104"/>
+	</game>
+	<game name="Lynx Casino">
+		<rom crc="5539baf4"/>
+	</game>
+	<game name="Lynx II Production Test Program">
+		<rom crc="93acf1dc"/>
+	</game>
+	<game name="Malibu Bikini Volleyball">
+		<rom crc="aba3e776"/>
+	</game>
+<!-- 	<game name="Malibu Bikini Volleyball">
+		<rom crc="4bb6f7c2"/>
+	</game> -->
+	<game name="Marlboro Go!">
+		<category>Preproduction</category>
+		<rom crc="8d484e65"/>
+	</game>
+	<game name="Ms. Pac-Man">
+		<rom crc="a4d77de9"/>
+	</game>
+	<game name="NFL Football">
+		<rom crc="c398359e"/>
+	</game>
+	<game name="Ninja Gaiden">
+		<rom crc="5adf25f0"/>
+	</game>
+	<game name="Ninja Gaiden III - The Ancient Ship of Doom">
+		<rom crc="cd2ffbcc"/>
+	</game>
+	<game name="Pac-Land">
+		<rom crc="5b57126a"/>
+	</game>
+	<game name="Paperboy">
+		<rom crc="d6a4c70b" />
+	</game>
+	<game name="Pinball Jam">
+		<rom crc="8863c28d"/>
+	</game>
+	<game name="Pit-Fighter">
+		<rom crc="cbaf54f3" />
+	</game>
+	<game name="Power Factor">
+		<rom crc="5db41679"/>
+	</game>
+	<game name="QIX">
+		<rom crc="5651e1a8"/>
+	</game>
+	<game name="Raiden">
+		<rom crc="2702ba4f"/>
+	</game>
+	<game name="Rampage">
+		<rom crc="490033c9"/>
+	</game>
+	<game name="Rampart">
+		<rom crc="adab7883"/>
+	</game>
+	<game name="RoadBlasters">
+		<rom crc="47f69051" />
+	</game>
+	<game name="Robo-Squash">
+		<rom crc="aeed3e7e"/>
+	</game>
+	<game name="Robotron 2084">
+		<rom crc="7117e9f7"/>
+	</game>
+	<game name="Rygar">
+		<rom crc="1dfca564"/>
+	</game>
+	<game name="S.T.U.N. Runner">
+		<rom crc="4b3bf84f"/>
+	</game>
+	<game name="Scrapyard Dog">
+		<rom crc="ca0d1bda" />
+	</game>
+	<game name="Shadow of the Beast">
+		<rom crc="d43a8430"/>
+	</game>
+	<game name="Shanghai">
+		<rom crc="78ba01fd" />
+	</game>
+	<!-- Missing crc -->
+	<!-- <game name="Sky Raider Redux">
+		<rom crc="" />
+	</game> -->
+	<game name="Steel Talons">
+		<rom crc="ab814832" />
+	</game>
+	<game name="Super Asteroids, Missile Command">
+		<rom crc="7d8a25d1"/>
+	</game>
+	<game name="Super Off-Road">
+		<rom crc="c51b7a2f"/>
+	</game>
+	<game name="Super Skweek">
+		<rom crc="11b712f6" />
+	</game>
+	<game name="Switchblade II">
+		<rom crc="63144491"/>
+	</game>
+	<game name="Todd's Adventures in Slime World">
+		<rom crc="39bf3c25"/>
+	</game>
+	<game name="Toki">
+		<rom crc="52b94a6c" />
+	</game>
+	<game name="Tournament Cyberball">
+		<rom crc="70d0c9bf" />
+	</game>
+	<!-- Bad crc? -->
+	<!-- <game name="Turbo Sub">
+		<rom crc="5247b5f3" />
+	</game> -->
+	<game name="Viking Child">
+		<rom crc="45969eb0"/>
+	</game>
+	<game name="Warbirds">
+		<rom crc="a6ae2301" />
+	</game>
+	<game name="World Class Soccer">
+		<rom crc="9d929f2c" />
+	</game>
+	<!-- Missing crc -->
+	<!-- <game name="Wyvern Tales">
+		<rom crc="" />
+	</game> -->
+	<game name="Xenophobe">
+		<rom crc="922a9dd0"/>
+	</game>
+	<game name="Xybots">
+		<rom crc="cac9a246" />
+	</game>
+	<game name="Zaku">
+		<rom crc="3d82e190"/>
+	</game>
+<!-- 	<game name="Zaku">
+		<rom crc="598ae8ae"/>
+	</game> -->
+	<game name="Zarlor Mercenary">
+		<rom crc="35bc4ff9"/>
+	</game>
+</datafile>
