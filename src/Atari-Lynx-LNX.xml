@@ -259,10 +259,9 @@
 	<game name="Tournament Cyberball">
 		<rom crc="70d0c9bf" />
 	</game>
-	<!-- Bad crc? -->
-	<!-- <game name="Turbo Sub">
-		<rom crc="5247b5f3" />
-	</game> -->
+	<game name="Turbo Sub">
+		<rom crc="16273931" />
+	</game>
 	<game name="Viking Child">
 		<rom crc="45969eb0"/>
 	</game>
